@@ -1,0 +1,18 @@
+{
+    "mapWidth": 30,
+    "mapHeight": 40,
+    "mapVariant": "Globe",
+    "howManyGrassesDaily": 15,
+    "grassEnergy": 10,
+    "grassGrowVariant": "Forested Equators",
+    "startingAnimals": 20,
+    "animalsStartEnergy": 10,
+    "energyToBreed": 7,
+    "breedEnergyCost": 10,
+    "minNumOfMutations": 10,
+    "maxNumOfMutations": 20,
+    "mutationVariant": "Full Randomness",
+    "genotypeLength": 30,
+    "animalsBehavior": "Some Madness"
+}
+
